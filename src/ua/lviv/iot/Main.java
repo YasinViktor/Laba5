@@ -10,5 +10,5 @@ public class Main {
                 "However, as with any technology, there are also potential risks and challenges associated with IoT. One of the biggest concerns is security, as IoT devices can be vulnerable to cyberattacks and data breaches. Another challenge is the sheer scale of IoT networks and the amount of data they generate, which can create issues with data storage, processing, and analysis.\n" +
                 "\n" +
                 "Despite these challenges, the potential benefits of IoT are vast, and the technology is expected to continue to grow and evolve in the coming years. As more devices become connected and more data is generated, new opportunities for innovation and optimization will emerge, transforming the way we live and work in ways we can't yet imagine.");
-        }
     }
+}
